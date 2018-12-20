@@ -36,7 +36,7 @@ To solder electronic kits together, you will need (at a minimum)
 
 We do not recommend buying a soldering iron unless it is 'temperature controlled'. This means you get to set the tip temperature with a knob or buttons, and the iron will only heat up as much as it needs to in order to maintain that temperature. Using a non-temp controlled iron has, in our experience, led to lots of frustration and failed kits.
 
-This is the iron we recommend, as we've had great experience with it and it is very inexpensive : [http://www.hobbyking.com/hobbyking/store/__19240__Soldering_Station_with_Adjustable_Heat_Range_US_Warehouse_.html]
+This is the iron we recommend, as we've had great experience with it and it is very inexpensive : [https://hobbyking.com/en_us/soldering-station-with-adjustable-heat-range-us-warehouse.html]
 
 You can also by this same type of iron from many other places, including Amazon and E-bay, but the price tends to be a bit higher. Some of the companies listed below under Other Soldering Kits also sell tools like irons. There are also many other types of temperature controlled soldering irons which will work just as well.
 
